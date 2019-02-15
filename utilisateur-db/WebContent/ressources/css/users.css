@@ -1,0 +1,67 @@
+@charset "ISO-8859-1";
+
+
+body{
+	
+	background-image: url('https://images.pexels.com/photos/1485894/pexels-photo-1485894.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+	
+	
+	
+}
+
+
+
+h1{
+
+    color: blue;
+
+    font-size: 70px;
+
+    text-align: center;
+
+    text-decoration: underline;
+
+    border: chartreuse 2px solid;
+
+}
+
+img {
+	height: 200px;
+	width: 200px;
+	
+}
+
+.block_produit {
+	text-align: center; width : 350px;
+	display: inline-block;
+	border: 2px solid darkgray;
+	margin-left: 10px;
+	margin-top: 10px;
+	background: purple;
+	width: 350px;
+}
+
+.description {
+	font-size: 12px;
+	text-align: center;
+	color: red;
+	border: 1px solid antiquewhite;
+
+    background-color: aliceblue;
+
+}
+
+#conteneur{
+
+margin : auto;
+}
+.nom_prenom {
+text-align: center;
+background: black;
+
+
+}
+
+
+
+}
